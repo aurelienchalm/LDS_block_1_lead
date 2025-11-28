@@ -51,7 +51,7 @@ L’objectif est de renforcer la qualité, la conformité, la sécurité et la c
   - Février → Data Quality Report v1.  
   - Mars → Compliance Audit (RGPD/CCPA).  
   - Avril → Intégration technique.  
-  - Mai → Mid-Project Review.  
+  - Mai → Project Review.  
   - Juin → Lessons Learned & Scaling Plan.  
 - Suivi par indicateurs clés (KPI) :
   - +10 % qualité des données  
@@ -78,25 +78,21 @@ L’objectif est de renforcer la qualité, la conformité, la sécurité et la c
 ## 🧱 Arborescence du projet
 
 ```bash
-├── ressources      documents du projet
+├── ressources      # documents du projet
 │   └── templates
-├── LDS_Block_1_Lead.pptx   présentation du. projet
+│
+├── schemas      # schemas du projet   
+├── sources      # documents de travail du projet
+│ 
+├── LDS_Block_1_Lead.pptx   # présentation du. projet  
+├── Résumé – Anticipation des questions.pdf 
+├── spotify_CoE_.drawio.png     # schéma CoE Spotify
 │   
-├── Résumé – Anticipation des questions.pdf     document de préparation   
+├── Step1_Understanding_Spotify_s_Data_Landscape_.docx      # step 1 du projet
 │   
-├── spotify_CoE_.drawio.png     schéma CoE Spotify
+├── Step2_Data_Governance_Policy_Document.docx      # step 2 du projet
 │   
-├── Spotify_step1.pdf       document de travail step 1
-│   
-├── Spotify_step2.pdf       document de travail step 2
-│   
-├── Spotify_step3.pdf       document de travail step 3
-│   
-├── Step1_Understanding_Spotify_s_Data_Landscape .docx      step 1 du projet
-│   
-├── Step2_Data_Governance_Policy_Document.docx      step 2 du projet
-│   
-├── Step3_Data_Governance_Framework.docx     step 3 du projet
+├── Step3_Data_Governance_Framework.docx     # step 3 du projet
 └── README.md
 ```
 ---

@@ -18,7 +18,7 @@ La gouvernance permet de sécuriser l’exploitation globale des données et de 
 	•	Réduit les silos et fluidifie la conformité.  
 	•	Changements initiaux dans les rôles/processus, mais gains durables : décisions plus rapides, sécurité renforcée.  
   
-💬 *Retiens :* **impact positif à long terme sur l’efficacité et la collaboration.**  
+💬 *A retenir :* **impact positif à long terme sur l’efficacité et la collaboration.**  
   
 ⸻  
   
@@ -36,7 +36,7 @@ La gouvernance permet de sécuriser l’exploitation globale des données et de 
 	•	Sécurité et minimisation des données sensibles.  
 	•	DPO responsable du suivi global de conformité.  
   
-💬 *Retiens :* la conformité est intégrée **dans chaque étape** du cycle de vie des données.  
+💬 *A retenir :* la conformité est intégrée **dans chaque étape** du cycle de vie des données.  
   
 ⸻  
   
@@ -45,7 +45,7 @@ La gouvernance permet de sécuriser l’exploitation globale des données et de 
 	•	Combine centralisation stratégique et autonomie locale.  
 	•	Garantit cohérence globale + adaptation locale (évite les silos).  
   
-💬 *Retiens :* le CoE = structure hybride idéale pour Spotify.  
+💬 *A retenir :* le CoE = structure hybride idéale pour Spotify.  
   
 ⸻  
   
@@ -61,7 +61,7 @@ La gouvernance permet de sécuriser l’exploitation globale des données et de 
 	•	**Phase pilote : 3 à 6 mois** (ex : département marketing).  
 	•	**Déploiement complet : 12 à 18 mois** selon le succès du pilote.  
   
-💬 *Retiens :* approche progressive, ajustable et scalable.  
+💬 *A retenir:* approche progressive, ajustable et scalable.  
   
 ⸻  
   
@@ -98,7 +98,7 @@ La gouvernance permet de sécuriser l’exploitation globale des données et de 
 | Dépassement budgétaire | Suivi budgétaire et flexibilité dans les priorités. |
   
   
-1️⃣2️⃣** La gouvernance ne va-t-elle pas freiner l’innovation ?**  
+## 1️⃣2️⃣** La gouvernance ne va-t-elle pas freiner l’innovation ?**  
   
 Non — elle la **renforce** :  
 	•	Des données fiables = décisions plus rapides et sûres.  
@@ -107,10 +107,9 @@ Non — elle la **renforce** :
   
 ⸻  
   
-✅** En résumé pour ton oral :**  
+## ✅** En résumé pour l'oral :**  
   
-Quand le jury te posera une question :  
-	•	Commence par **l’enjeu business ou réglementaire**,  
-	•	Enchaîne sur **l’action du framework**,  
-	•	Termine par **le bénéfice concret pour Spotify** (qualité, conformité, confiance, innovation).  
+  	•	Commencer par **l’enjeu business ou réglementaire**,  
+	•	Enchaîner sur **l’action du framework**,  
+	•	Terminer par **le bénéfice concret pour Spotify** (qualité, conformité, confiance, innovation).  
   
